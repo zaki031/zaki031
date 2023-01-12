@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakaria&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakaria" /> </p>
 
-- 🔭 I’m currently working on **PassNinja**
+- 🔭 I’m currently working on **Nyaanime**
 
 - 🌱 I’m currently learning **React and Next**
 
 - 👯 I’m looking to collaborate on **PetaBot**
 
-- 📫 How to reach me **hamoudizakaria311@gmail.com**
+- 📫 How to reach me **m.zakariahamoudi@gmail.com**
 
 - ⚡ Fun fact **I love purple**
 
