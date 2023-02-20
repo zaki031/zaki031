@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakaria&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakaria" /> </p>
 
-- 🔭 I’m currently working on **Nyaanime**
+- 🔭 I’m currently working on **ToDo It**
 
 - 🌱 I’m currently learning **React and Next**
 
