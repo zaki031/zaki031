@@ -1,5 +1,8 @@
-
+<style> .container{display:flex; }</style>
+<div class="container">
 <img src="https://camo.githubusercontent.com/dbea65544498497c864322bd2a26ea6f75fd16abf3e86fcf708d8b105cf9e9a6/68747470733a2f2f692e70696e696d672e636f6d2f353634782f34312f32612f30622f34313261306263326663643966663836316439393166636132336465386337352e6a7067">
+  
+
 <h1 align="center">Hi 👋, I'm Hamoudi m.Zakaria</h1>
 <h3 align="center">A passionate self taught full-stack web developer from Algeria</h3>
 
@@ -30,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaki031&show_icons=true&locale=en" alt="zaki031" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaki031&" alt="hamzakaria" /></p>
+</div>
