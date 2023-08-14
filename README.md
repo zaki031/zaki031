@@ -1,5 +1,4 @@
-<style> .container{display:flex; }</style>
-<div class="container">
+<div class="container" style="display:flex;">
 <img src="https://camo.githubusercontent.com/dbea65544498497c864322bd2a26ea6f75fd16abf3e86fcf708d8b105cf9e9a6/68747470733a2f2f692e70696e696d672e636f6d2f353634782f34312f32612f30622f34313261306263326663643966663836316439393166636132336465386337352e6a7067">
   
 
