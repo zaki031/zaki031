@@ -11,5 +11,10 @@
 <a href="https://twitter.com/zakariahamoudi5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariahamoudi5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakaria hamoudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria hamoudi" height="30" width="40" /></a>
 <a href="https://instagram.com/zaki.owo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziko.dev1" height="30" width="40" /></a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaki031&layout=compact)
 </p>
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki031&layout=compact"/>
+
+
+
+
+
