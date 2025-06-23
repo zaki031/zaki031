@@ -5,7 +5,7 @@
 <p>
   
 ```Yo! <br>
-I'm Zakaria, a 18 y/o CS undergrad student and web developer
+I'm Zakaria, CS undergrad student and software developer
 I enjoy reading, listening to jazz, playing video games
 ```
 </p>
